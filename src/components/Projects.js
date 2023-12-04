@@ -30,12 +30,12 @@ const Projects = () => {
 
             <div className='absolute -bottom-full left-12 group-hover:bottom-24 transtion-all duration-500 z-50'>
               <span className='text-gradient'>
-                UI/UX Design
+                Frontend Design
               </span>
               </div>
             
             <div className='absolute -bottom-full left-12 group-hover:bottom-14 transtion-all duration-500 z-50'>
-              <span className='text-3xl text-white'>Title</span>
+              <span className='text-3xl text-white'>Portfolio Website</span>
             </div>
           </div>
 

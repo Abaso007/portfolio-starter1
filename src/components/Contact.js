@@ -20,7 +20,7 @@ const Contact = () => {
                     LinkedIn
                 </h2>
                 <p>This is where I network and build my professional portfolio</p>
-                <a href="https://www.linkedin.com/in/abhiraj-sinha-240269249/" target="_blank">_adamdipinto</a>
+                <a href="https://www.linkedin.com/in/abhiraj-sinha-240269249/" target="_blank">abhirajsinha</a>
             </div>
         </motion.div>
 
